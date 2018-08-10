@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='問題1'/>
+        <page name='問題2'/>
+        <page name='問題3'/>
+        <page name='問題4-6'/>
+        <page name='問題7-8'/>
+        <page name='問題9-10'/>
+        <page name='問題11'/>
+        <page name='問題12'/>
+        <page name='問題13'/>
+        <page name='問題14'/>
+        <page name='問題15'/>
+        <page name='問題16'/>
+        <page name='問題17'/>
+        <page name='問題18'/>
+        <page name='問題19-21'/>
+        <page name='Untitled Page'/>
+        <page name='全問題'/>
+    </pages>
+</playground>
